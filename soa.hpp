@@ -8,7 +8,14 @@
 #ifndef SOA_HPP
 #define SOA_HPP
 
+#include <iostream>
+#include <sstream>
+#include <fstream>
 #include <vector>
+#include <map>
+#include <unordered_map>
+#include "products.hpp"
+#include "functions.hpp"
 
 using namespace std;
 

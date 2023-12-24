@@ -1,0 +1,3 @@
+/home/ubuntu/dev/baruchMFE/MTH9815/final/tradingsystem/build/CMakeFiles/main.dir
+/home/ubuntu/dev/baruchMFE/MTH9815/final/tradingsystem/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/baruchMFE/MTH9815/final/tradingsystem/build/CMakeFiles/rebuild_cache.dir
